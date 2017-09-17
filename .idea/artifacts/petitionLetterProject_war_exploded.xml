@@ -1,0 +1,35 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="petitionLetterProject:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/petitionLetterProject_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="petitionLetterProject/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="petitionLetterProject" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Spring-4.3.10.RELEASE" />
+          <element id="library" level="project" name="Spring MVC-4.3.10.RELEASE" />
+          <element id="file-copy" path="D:/openSource/c3p0-0.9.2.1/lib/c3p0-0.9.2.1.jar" />
+          <element id="file-copy" path="D:/openSource/Junit/hamcrest-core-1.3.jar" />
+          <element id="file-copy" path="D:/openSource/Junit/junit-4.11.jar" />
+          <element id="file-copy" path="D:/openSource/mysql-connector-java-6.0.2.jar" />
+          <element id="file-copy" path="D:/openSource/c3p0-0.9.2.1/lib/c3p0-oracle-thin-extras-0.9.2.1.jar" />
+          <element id="file-copy" path="D:/openSource/c3p0-0.9.2.1/lib/mchange-commons-java-0.2.3.4.jar" />
+          <element id="file-copy" path="D:/openSource/jakarta-taglibs-standard-1.1.2/lib/jstl.jar" />
+          <element id="file-copy" path="D:/openSource/jakarta-taglibs-standard-1.1.2/lib/standard.jar" />
+          <element id="file-copy" path="D:/openSource/ueditor/jsp/lib/commons-codec-1.9.jar" />
+          <element id="file-copy" path="D:/openSource/ueditor/jsp/lib/commons-fileupload-1.3.1.jar" />
+          <element id="file-copy" path="D:/openSource/ueditor/jsp/lib/commons-io-2.4.jar" />
+          <element id="file-copy" path="D:/openSource/ueditor/jsp/lib/json.jar" />
+          <element id="file-copy" path="D:/openSource/ueditor/jsp/lib/ueditor-1.1.2.jar" />
+          <element id="file-copy" path="D:/openSource/utf8-jsp/jsp/lib/commons-codec-1.9.jar" />
+          <element id="file-copy" path="D:/openSource/utf8-jsp/jsp/lib/commons-fileupload-1.3.1.jar" />
+          <element id="file-copy" path="D:/openSource/utf8-jsp/jsp/lib/commons-io-2.4.jar" />
+          <element id="file-copy" path="D:/openSource/utf8-jsp/jsp/lib/json.jar" />
+          <element id="file-copy" path="D:/openSource/utf8-jsp/jsp/lib/ueditor-1.1.2.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

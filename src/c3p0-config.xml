@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<c3p0-config>
+    <default-config>
+        <!-- 指定数据源的基本属性 -->
+        <property name="user">root</property>
+        <property name="password">root</property>
+        <property name="driverClass">com.mysql.cj.jdbc.Driver</property>
+        <property name="jdbcUrl">jdbc:mysql://116.228.90.74:33060/xf_db?useSSL=true&amp;serverTimezone=UTC&amp;useUnicode=true&amp;characterEncoding=UTF-8
+        </property>
+
+        <property name="acquireIncrement">5</property>
+        <property name="initialPoolSize">5</property>
+        <property name="minPoolSize">5</property>
+        <property name="maxPoolSize">10</property>
+
+        <property name="maxStatements">20</property>
+        <property name="maxStatementsPerConnection">5</property>
+    </default-config>
+</c3p0-config>

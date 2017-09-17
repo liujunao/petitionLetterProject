@@ -1,0 +1,420 @@
+@media all and (min-width:1201px)
+{
+.query-list li {
+	width: 25%;
+}
+}
+@media all and (max-width:1200px) and (min-width:979px)
+{
+.content .nav-tabs > li {
+	width: 25%;
+}
+.content .nav-pills > li {
+	width: 25%;
+}
+.info-list.nav-tabs .li-large a {
+	padding-right: 5px; padding-left: 5px;
+}
+.panel-info.apply ul li {
+	width: 100%;
+}
+.logo-content {
+	margin-top: 49px !important;
+}
+}
+@media all and (max-width:979px) and (min-width:768px)
+{
+.middleBar h1 {
+	height: 55px; line-height: 20px; font-size: 24px !important;
+}
+.middleBar .container {
+	background-position: 0px;
+}
+.content .nav-tabs > li {
+	width: 33.33%;
+}
+.content .nav-pills > li {
+	width: 33.33%;
+}
+.info-list.nav-tabs {
+	padding-right: 5px; padding-left: 5px !important;
+}
+.info-list.nav-tabs .li-large {
+	width: 66.66%;
+}
+.panel-info.apply ul li {
+	width: 100%;
+}
+.sitemap ul li {
+	width: 50%;
+}
+.sitemap .module {
+	height: 310px;
+}
+.sitemap .module.height170 {
+	height: auto !important;
+}
+.quick-link li a {
+	padding: 10px 8px;
+}
+.login img.height300 {
+	height: 250px !important;
+}
+.login-option {
+	padding: 15px 30px 0px 0px;
+}
+.login .form-horizontal .control-group {
+	margin-bottom: 10px;
+}
+.login .form-horizontal a.change {
+	display: block;
+}
+.service ul.nav-pills li {
+	width: 25%;
+}
+.banner-title2 {
+	width: 100%;
+}
+.logo-content {
+	margin: 65px auto 10px !important;
+}
+.logo-content .col33 {
+	width: 35% !important;
+}
+.logo-content .span5 {
+	width: 50% !important; margin-left: 20px !important; float: left;
+}
+.colsearch {
+	width: 75% !important; margin-left: 30px !important;
+}
+.colsearch input {
+	width: 100% !important;
+}
+.carosule .pic img {
+	height: 150px !important;
+}
+}
+@media all and (max-width:767px)
+{
+#mainNav .btn-link {
+	background: none;
+}
+#mainNav .btn-link:hover {
+	text-decoration: none;
+}
+#mainNav .navbar-inner {
+	filter: none; background-image: none; background-color: rgb(7, 165, 170);
+}
+.search-iframe {
+	width: 98%; height: 880px;
+}
+.navbar .nav > li > a {
+	border: 0px currentColor; border-image: none; font-weight: normal;
+}
+.navbar .nav > .active > a {
+	border: 0px currentColor; border-image: none; font-weight: normal;
+}
+.navbar .nav > .active > a:hover {
+	border: 0px currentColor; border-image: none; font-weight: normal;
+}
+.navbar .nav > .active > a:focus {
+	border: 0px currentColor; border-image: none; font-weight: normal;
+}
+.news-list li.item {
+	height: 40px; line-height: 40px;
+}
+.news-content.uli14 li {
+	background-position: 0px 18px; padding-top: 10px; padding-bottom: 10px;
+}
+.news-list .border-top {
+	border-top-color: rgb(221, 221, 221) !important; border-top-width: 1px !important; border-top-style: solid !important;
+}
+.news-list li {
+	text-align: center; padding-left: 0px !important;
+}
+.middleBar h1 {
+	height: 55px; line-height: 35px; font-size: 24px !important;
+}
+.navbar#mainNav .nav li {
+	width: auto;
+}
+.navbar#mainNav .nav li a {
+	padding: 10px 0px; border-radius: 0px; margin-top: 0px; margin-bottom: 0px; border-top-color: rgb(137, 207, 187); border-top-width: 1px; border-top-style: solid;
+}
+.navbar#mainNav .nav li a:hover {
+	background: none;
+}
+.navbar .nav > .active > a {
+	font-weight: bold;
+}
+.navbar .nav > .active > a:hover {
+	font-weight: bold;
+}
+.navbar .nav > .active > a:focus {
+	font-weight: bold;
+}
+.topBar .span7 {
+	text-align: center !important;
+}
+.topBar .span5 {
+	text-align: center !important;
+}
+.navbar .btn-navbar {
+	text-align: center; float: none;
+}
+.middleBar .logo-content {
+	margin-top: 10px !important; margin-bottom: 0px !important;
+}
+.navbar {
+	margin-bottom: 10px;
+}
+.article-head h2 {
+	line-height: 24px !important; font-size: 18px !important;
+}
+.content .nav-tabs > li a {
+	font-size: 14px; font-weight: 500;
+}
+.content .nav-pills > li a {
+	font-size: 14px; font-weight: 500;
+}
+.content .nav-tabs > li {
+	width: 30%;
+}
+.content .nav-pills > li {
+	width: 30%;
+}
+.info-list.nav-tabs {
+	padding-right: 10px; padding-left: 10px !important;
+}
+.info-list.nav-tabs .li-large {
+	width: 50%;
+}
+.topBar a.divider {
+	border: 0px currentColor; border-image: none;
+}
+.sitemap .module {
+	height: auto !important;
+}
+.complaints form label {
+	text-align: left;
+}
+.complaints form {
+	padding: 20px 30px 20px 20px;
+}
+.complaints form a {
+	padding: 10px 0px !important; width: 45%;
+}
+.complaints form .row-fluid {
+	margin-bottom: 0px !important;
+}
+.complaints form a.btn-submit {
+	float: left;
+}
+.complaints form a.btn-cancle {
+	margin-left: 0px !important; float: right;
+}
+.login img.height300 {
+	height: auto !important;
+}
+.service ul.nav-pills li {
+	width: 25%;
+}
+.banner-title2 {
+	width: 180px; margin-top: 5px;
+}
+.colsearch {
+	margin-left: 0px !important;
+}
+.logo-content .col33 {
+	width: 100% !important;
+}
+.carosule .pic img {
+	height: 150px !important;
+}
+.banner-title {
+	text-align: center; margin-top: 0px !important;
+}
+.banner-title img {
+	width: 300px !important;
+}
+.middleBar form {
+	margin-bottom: 0px;
+}
+.container {
+	padding-right: 0px; padding-left: 0px;
+}
+.service-content li.active {
+	height: auto;
+}
+}
+@media all and (max-width:640px)
+{
+.sitemap ul li {
+	width: 50%;
+}
+.leader-list .tab-content img {
+	width: auto; max-width: 100px;
+}
+.leader-list dl {
+	padding: 0px !important;
+}
+.leader-list dl dt {
+	width: auto; float: none;
+}
+.leader-list dl dd {
+	width: auto; float: none;
+}
+.quick-link {
+	padding-bottom: 10px;
+}
+.quick-link li {
+	width: 48%; margin-bottom: 20px;
+}
+.quick-link li.no-margin-sm {
+	margin-right: 0px;
+}
+.xs-col100 {
+	width: 100% !important;
+}
+.modal .login form.form-horizontal {
+	border-right-color: currentColor !important; border-right-width: 0px !important; border-right-style: none !important;
+}
+.modal-body {
+	-ms-overflow-y: hidden;
+}
+.modal .login .form-horizontal .control-label {
+	width: 30% !important;
+}
+.modal .login .form-horizontal .controls {
+	width: 60% !important; margin-left: auto !important;
+}
+.query-list li {
+	width: 50%;
+}
+.service ul.nav-pills li {
+	width: 33.33%;
+}
+}
+@media all and (max-width:550px)
+{
+.sitemap .module {
+	height: auto !important;
+}
+}
+@media all and (max-width:480px)
+{
+.article-body {
+	padding: 30px 15px 0px !important;
+}
+.pic-list.pageList li {
+	width: 48% !important; margin-right: 2% !important;
+}
+.modal .login .form-horizontal .control-group {
+	margin: 0px 20px;
+}
+.modal .login .form-horizontal .control-label {
+	width: 100% !important;
+}
+.modal .login .form-horizontal .controls {
+	width: 100% !important; margin-left: 0px !important;
+}
+.xs-inp-col100 {
+	width: 100% !important;
+}
+.modal-body {
+	max-height: 500px;
+}
+.login .form-horizontal .controls {
+	margin-left: 0px;
+}
+.login-option {
+	padding: 20px;
+}
+.service ul.nav-pills li {
+	width: 50%;
+}
+.weibo div.col50 {
+	width: 100%;
+}
+.pageList li a {
+	width: 99%;
+}
+.pageList li span.listTime {
+	width: 25%;
+}
+}
+@media all and (max-width:420px)
+{
+.query-list li {
+	width: 100%;
+}
+.Article {
+	padding: 10px !important;
+}
+.service-content .options {
+	padding: 0px 0px 10px;
+}
+.service-content .options a {
+	padding: 4px 6px;
+}
+}
+@media all and (max-width:380px)
+{
+.middleBar h1 {
+	background-position: 0px 10px; height: 65px; line-height: 30px; font-size: 24px !important;
+}
+.content .nav-tabs > li {
+	width: 50%;
+}
+.content .nav-pills > li {
+	width: 50%;
+}
+.info-list.nav-tabs a {
+	padding-right: 0px; padding-left: 0px;
+}
+.info-list.nav-tabs .li-large {
+	width: 100%;
+}
+.sitemap ul li {
+	width: 100%;
+}
+.pic-list.pageList li {
+	width: 100% !important; text-align: center; margin-right: 0px !important;
+}
+.pic-list.pageList img {
+	height: 180px;
+}
+.leader-list ul.nav-pills li {
+	width: 33.33% !important;
+}
+.quick-link {
+	padding: 20px 20px 10px;
+}
+.quick-link li {
+	margin-bottom: 10px;
+}
+.interview .title span {
+	width: 33.33% !important;
+}
+.interview .theme {
+	width: 100%; margin-bottom: 10px;
+}
+.interview .guest {
+	width: 50% !important; text-align: left !important;
+}
+.interview .listTime {
+	width: 50% !important; text-align: left !important;
+}
+.login .form-horizontal a.change {
+	display: block;
+}
+.service ul.nav-pills li {
+	width: 50% !important;
+}
+.middleBar h1 {
+	background: url("../img/ico/favicon.png") no-repeat; height: auto; margin-top: 35px;
+}
+.banner-title2 {
+	width: 150px; margin-top: 0px;
+}
+}
